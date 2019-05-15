@@ -1,0 +1,23 @@
+{
+  "name": "firestore-microserv",
+  "version": "1.0.0",
+  "description": "Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)\r  ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skamalj/gke-firestore-microserv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skamalj/gke-firestore-microserv/issues"
+  },
+  "homepage": "https://github.com/skamalj/gke-firestore-microserv#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "firebase-admin": "^7.2.0"
+  }
+}
